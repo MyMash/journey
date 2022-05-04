@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dinling-common/dinling-common.iml" filepath="$PROJECT_DIR$/dinling-common/dinling-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dinling-kernel/dinling-kernel.iml" filepath="$PROJECT_DIR$/dinling-kernel/dinling-kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dinling-main/dinling-main.iml" filepath="$PROJECT_DIR$/dinling-main/dinling-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/journey-start.iml" filepath="$PROJECT_DIR$/journey-start.iml" />
+    </modules>
+  </component>
+</project>
